@@ -1,0 +1,15 @@
+node_modules/
+*.d.ts
+
+# Ignore artifacts:
+coverage/
+dist/
+public/
+__mocks__/
+
+
+# Ignore Configuration Files
+jest.config.js
+vite.config.ts
+vite.config-server.ts
+jest.setup.ts
